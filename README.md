@@ -1,24 +1,41 @@
-!["mybanner"](https://github.com/Teemo4621/Teemo4621/blob/main/assets/banner2.png)
-# Hi! 👋🏻 My name is ZEMON
+# Hi there, I'm Rattasak Nitutorn 👋
 
+[![Website](https://img.shields.io/badge/Portfolio-rattasak.space-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rattasak.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rattasak_Nitutorn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rattasak-nitutorn-03275322b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Teemo4621-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teemo4621)
 
-## Full Stack developer 🔮
+---
 
-My name’s Tee, I’m 19 work as a software engineer for a smaller company 🚀.
+### About Me
 
+Backend Engineer who loves building scalable backend systems, clean architecture, and reliable APIs. 
 
+- **Currently working on:** Distributed backend architecture and SaaS platforms.
+- **Organization:** Software Developer at [@bizaenterprise](https://github.com/bizaenterprise)
+- **Tech Stack Focus:** Node.js, Go, PostgreSQL, Docker, and modern backend tooling.
+- **Ask me about:** RESTful API design, microservices, database optimization, and CI/CD workflows.
+- **Portfolio & Blog:** [www.rattasak.space](https://www.rattasak.space)
 
-* ✉️ You can contact me at [teemokung45621@gmail.com](mailto:teemokung45621@gmail.com)
+---
 
-* 🧠 I'm learning React, Redux, Golang Fiber
+### Tech Stack & Tools
 
+**Languages & Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**Databases & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### My Skills
+---
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg alt="" width="45px" height="45px"/><a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/typescript-color.svg alt="" width="45px" height="45px"/><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/go-color.svg alt="" width="45px" height="45px"/><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg alt="" width="45px" height="45px"/><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/php-color.svg alt="" width="45px" height="45px"/><a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/react-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/html5-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/css3-color.svg alt="" width="45px" height="45px"/><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/nextjs-color.svg alt="" width="45px" height="45px"/><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/redux-color.svg alt="" width="45px" height="45px"/><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/tailwindcss-color.svg alt="" width="45px" height="45px"/><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/jquery-color.svg alt="" width="45px" height="45px"/><a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/materialui-color.svg alt="" width="45px" height="45px"/><a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/nodejs-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mysql-color.svg alt="" width="45px" height="45px"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/postgresql-color.svg alt="" width="45px" height="45px"/><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/express-color.svg alt="" width="45px" height="45px"/><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mongodb-color.svg alt="" width="45px" height="45px"/><a href="https://www.Figma.com" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/figma-color.svg alt="" width="45px" height="45px"/><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg alt="" width="45px" height="45px"/></p>
+### Connect with Me
 
-
-### Find Me Also Here
-
-<p align="left"><a href=https://www.github.com/Teemo4621 target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg width="45px" height="45px" /></a><a href=https://www.stackoverflow.com/users/zemonnub target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/stackoverflow.svg width="45px" height="45px" /></a></p>
+- 🌐 **Website:** [rattasak.space](https://www.rattasak.space)
+- 💼 **LinkedIn:** [rattasak-nitutorn](https://www.linkedin.com/in/rattasak-nitutorn-03275322b/)
+- 📧 **Email:** [Contact via Portfolio](https://www.rattasak.space)
